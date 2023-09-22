@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{54642EFC-05A3-429F-8793-24C86BA68335}|Default">
+  <MonoDevelop.Ide.ItemProperties.FormatFullName PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormatFullName/Program.cs">
+    <Files>
+      <File FileName="FormatFullName/Program.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FormatFullName" expanded="True">
+            <Node name="FormatFullName" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

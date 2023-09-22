@@ -1,0 +1,14 @@
+/Users/fateh/Projects/FormatFullName/FormatFullName/obj/Debug/net6.0/FormatFullName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fateh/Projects/FormatFullName/FormatFullName/obj/Debug/net6.0/FormatFullName.AssemblyInfoInputs.cache
+/Users/fateh/Projects/FormatFullName/FormatFullName/obj/Debug/net6.0/FormatFullName.AssemblyInfo.cs
+/Users/fateh/Projects/FormatFullName/FormatFullName/obj/Debug/net6.0/FormatFullName.csproj.CoreCompileInputs.cache
+/Users/fateh/Projects/FormatFullName/FormatFullName/bin/Debug/net6.0/FormatFullName
+/Users/fateh/Projects/FormatFullName/FormatFullName/bin/Debug/net6.0/FormatFullName.deps.json
+/Users/fateh/Projects/FormatFullName/FormatFullName/bin/Debug/net6.0/FormatFullName.runtimeconfig.json
+/Users/fateh/Projects/FormatFullName/FormatFullName/bin/Debug/net6.0/FormatFullName.dll
+/Users/fateh/Projects/FormatFullName/FormatFullName/bin/Debug/net6.0/FormatFullName.pdb
+/Users/fateh/Projects/FormatFullName/FormatFullName/obj/Debug/net6.0/FormatFullName.dll
+/Users/fateh/Projects/FormatFullName/FormatFullName/obj/Debug/net6.0/refint/FormatFullName.dll
+/Users/fateh/Projects/FormatFullName/FormatFullName/obj/Debug/net6.0/FormatFullName.pdb
+/Users/fateh/Projects/FormatFullName/FormatFullName/obj/Debug/net6.0/FormatFullName.genruntimeconfig.cache
+/Users/fateh/Projects/FormatFullName/FormatFullName/obj/Debug/net6.0/ref/FormatFullName.dll
